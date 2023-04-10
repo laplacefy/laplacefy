@@ -3,8 +3,8 @@
 ### Olá 👋
 Eu sou um aluno de programação. 
 - 🔭 Eu busco me tornar um programador full-stack.
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+- 🌱 Eu busco trabalhar na área.
+- 🤝 Eu busco adquirir uma graduação em engenharia de software. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
