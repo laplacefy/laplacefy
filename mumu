@@ -1,0 +1,33 @@
+import 'package:flutter/material.dart';
+
+class TudoItemLista extends StatelessWidget {
+  const TudoItemLista({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      color: Colors.grey,
+      height: 60,
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            "Desenvolvido por Marcelo",
+            style: TextStyle(
+              color: Colors.blue, // Mude a cor do texto aqui
+              fontSize: 16, // Defina o tamanho do texto, se necessário
+            ),
+          ),
+          Text(
+            "Ivaiporã Paraná",
+            style: TextStyle(
+              color: Colors.green, 
+              fontSize: 14, 
+              fontStyle: FontStyle.italic, 
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
